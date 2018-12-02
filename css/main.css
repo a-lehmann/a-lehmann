@@ -1,0 +1,38 @@
+body{
+	font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+
+.loader {
+	position: fixed;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+	z-index: 9999;
+	background: rgb(249,249,249) url('../img/loader-gif-7.gif') no-repeat scroll 50% 50%;
+	opacity: 1;
+}
+
+#docs-navbar{
+	margin-top:50px;
+}
+
+.wrapper,#container1{
+width: 100%;
+margin: 0;
+}
+
+.demo li {
+    list-style-type: none;
+    display: inline-block;
+}
+
+.highlight{
+	overflow: auto;
+}
+
+.heart{
+	color: red;
+}
+
+

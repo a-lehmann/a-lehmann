@@ -1,0 +1,70 @@
+
+.cont1 {
+    width: 100%;
+    height: 445px;
+    padding: 0 0;
+    position: relative;
+    margin-top: 75px;
+}
+.slider1 {
+    width: 100%;
+    height: 480px;
+    position: absolute;
+    top: 46%;
+    left: 0;
+    -webkit-transform: translate(0, -50%);
+    -moz-transform: translate(0, -50%);
+    -o-transform: translate(0, -50%);
+    transform: translate(0, -50%);
+    overflow:hidden;
+}
+
+.slider1:last-child ol{
+    overflow: none;
+}
+.slider1 ul, .slider1 ul li {width: 100%; height: 100%}
+.slider1 ul {
+    position: absolute;
+    top: 0;
+    left: 0
+}
+.slider1 ul li {
+    text-align: center;
+    line-height: ;
+    font-size: 50px;
+    color: #aaa;
+    position: relative;
+}
+
+.navcls ol {
+    position: absolute;
+    right: -8%;
+    top: 53%;
+    padding-right: 15px;
+    -webkit-transform: translate(0, -50%);
+    -moz-transform: translate(0, -50%);
+    -o-transform: translate(0, -50%);
+    transform: translate(0, -50%);
+    list-style: none;
+}
+.navcls ol li {
+    width: 10px;
+    height: 4px;
+    margin-bottom: 5px;
+    color: #999;
+    cursor: pointer;
+    font-size: 24px;
+    font-weight: 600;
+    margin-bottom: 15px;
+    position: relative;
+    transition: all 0.5s ease-in-out;
+    background-color: rgba(0,0,0,0.2);
+    margin-bottom: 30px;
+}
+.navcls ol li:hover, .navcls ol li.active {
+    background: #e4216b;
+    color: #fff;
+    font-size: 40px;
+    transition: all 0.5s ease-in-out;
+    width: 30px;
+}

@@ -1,0 +1,941 @@
+@media (min-width: 320px) and (max-width: 480px){
+	.menu{
+		padding-top: 30px;
+		padding-bottom: 30px;
+	}
+
+	.carousel-control-next, .carousel-control-prev {
+		transform: scale(0.5);
+	}
+
+	.carousel-control-next{
+		right:5%;
+		top: 0%;
+	}
+
+	.carousel-control-prev{
+		left: 5%;
+		top: 0%;
+	}
+
+	.product{
+		padding-bottom: 0;
+	}
+
+	.fermenu{
+		padding-top: 0
+	}
+
+	.dataform{
+		bottom: -47px;
+		right: -149px;
+	}
+
+	.detail-sub{
+		margin-top: 20px;
+		margin-bottom: 20px;
+	}
+
+	.mar23{
+		margin-top: 20px;
+	}
+
+	.just-in{
+		margin-top: 20px;
+	}
+
+	.just-in h1, .about h1, .brands h1{
+		font-size: 28px;
+		margin-bottom: 20px;
+	}
+
+	.about1{
+		margin-top: 20px;
+		margin-bottom: 0;
+	}
+
+	.about1 p{
+		margin-bottom: 10px;
+	}
+
+	.box1{
+		padding: 0;
+		width: 100%;
+		top: 48%;
+		margin: 20px 0;
+		height: 225px;
+	}
+
+	.box1 h2{
+		margin-bottom: 10px;
+	}
+
+	.box1 h6{
+		margin-top: 15px;
+	}
+
+	.cont{
+		height: 450px;
+	}
+
+	.owl-prev, .owl-next, .owl-dots{
+		display: none;
+	}
+
+	.newsletter{
+		margin: 20px 0;
+		padding: 40px 0;
+	}
+
+	.newsletter h2{
+		font-size: 28px;
+	}
+
+	.form1 {
+	    width: 100%;
+	    height:100px;
+	    background-color: #fff;
+	    margin: 0 auto;
+	    position: relative;
+	    padding: 10px;
+	}
+
+	.newsletter input{
+		margin-bottom: 10px;
+		width: 100%;
+		text-align: center;
+	}
+
+	.form1::after{
+		top: 15%;
+	}
+
+	.copper{
+		left: 40%;
+		padding: 5px 10px;
+	}
+
+	.copper h3{
+		font-size: 16px;
+		margin-bottom: 0;
+	}
+
+	.newsletter h2{
+		margin-bottom: 20px;
+	}
+
+	.just-in, .about, .brands{
+		margin:20px 0;
+	}
+
+	.navcls ol {
+	    left: -8%;
+	    top: 20%;
+	    right: 0;
+	}
+
+	.cont1{
+		margin-top: 0;
+		height: 600px;
+	}
+
+	.slider1 {
+	    height: 600px;
+	    top: 48%;
+	}
+
+	.socail li{
+		transform: scale(0.4);
+		margin:auto 0;
+	}
+
+	.socail{
+		padding-bottom: 20px;
+	}
+
+	.footer{
+		padding-top: 20px;
+	}
+
+	.Shop h2{
+		margin-bottom: 40px;
+	}
+
+	.Shop{
+		margin: 15px 0 0;
+	}
+
+	.Shop ul{
+		margin-bottom: 0;
+	}
+
+	.call-us, .call-us1{
+		width: 100%;
+		margin-top:10px;
+	}
+
+	.main-content{
+		margin-bottom: 15px;
+	}
+
+	.brands{
+		margin-top: 0;
+	}
+
+}
+
+@media (min-width: 481px) and (max-width: 575px){
+
+	.menu{
+		padding-top: 30px;
+		padding-bottom: 30px;
+	}
+
+	.carousel-control-next, .carousel-control-prev {
+		transform: scale(0.6);
+	}
+
+	.carousel-control-next{
+		right:5%;
+		top: 0%;
+	}
+
+	.carousel-control-prev{
+		left: 5%;
+		top: 0%;
+	}
+
+	.product{
+		padding-bottom: 0;
+	}
+
+	.fermenu{
+		padding-top: 0
+	}
+
+	.dataform{
+		bottom: -47px;
+		right: -149px;
+	}
+
+	.detail-sub{
+		margin-top: 20px;
+		margin-bottom: 20px;
+	}
+
+	.mar23{
+		margin-top: 20px;
+	}
+
+	.just-in{
+		margin-top: 20px;
+	}
+
+	.just-in h1, .about h1, .brands h1{
+		font-size: 28px;
+		margin-bottom: 20px;
+	}
+
+	.about1{
+		margin-top: 20px;
+		margin-bottom: 0;
+	}
+
+	.about1 p{
+		margin-bottom: 10px;
+	}
+
+	.box1{
+		padding: 0;
+		width: 100%;
+		top: 57%;
+		margin: 20px 0;
+		height: 225px;
+	}
+
+	.box1 h2{
+		margin-bottom: 10px;
+	}
+
+	.box1 h6{
+		margin-top: 15px;
+	}
+
+	.cont{
+		height: 560px;
+	}
+
+	.owl-prev, .owl-next, .owl-dots{
+		display: none;
+	}
+
+	.newsletter{
+		margin: 20px 0;
+		padding: 40px 0;
+	}
+
+	.newsletter h2{
+		font-size: 28px;
+	}
+
+	.form1 {
+	    width: 100%;
+	    height:100px;
+	    background-color: #fff;
+	    margin: 0 auto;
+	    position: relative;
+	    padding: 10px;
+	}
+
+	.newsletter input{
+		margin-bottom: 10px;
+		width: 100%;
+		text-align: center;
+	}
+
+	.form1::after{
+		top: 15%;
+	}
+
+	.newsletter h2{
+		margin-bottom: 20px;
+	}
+
+	.just-in, .about, .brands{
+		margin:20px 0;
+	}
+
+	.navcls ol {
+	    left: 0%;
+    	top: 22%;
+	    right: 0;
+	}
+
+	.cont1{
+		margin-top: 0;
+		height: 680px;
+	}
+
+	.slider1 {
+	    height: 680px;
+	    top: 48%;
+	}
+
+	.socail li{
+		transform: scale(0.4);
+		margin:auto 0;
+	}
+
+	.socail{
+		padding-bottom: 20px;
+	}
+
+	.footer{
+		padding-top: 20px;
+	}
+
+	.Shop h2{
+		margin-bottom: 40px;
+	}
+
+	.Shop{
+		margin: 15px 0 0;
+	}
+
+	.Shop ul{
+		margin-bottom: 0;
+	}
+
+	.call-us, .call-us1{
+		width: 100%;
+		margin-top:10px;
+	}
+
+	.main-content{
+		margin-bottom: 15px;
+	}
+
+	.brands{
+		margin-top: 0;
+	}
+
+}
+
+@media (min-width: 576px) and (max-width: 767px){
+	.menu{
+		padding-top: 30px;
+		padding-bottom: 30px;
+	}
+
+	.carousel-control-next, .carousel-control-prev {
+		transform: scale(0.6);
+	}
+
+	.carousel-control-next{
+		right:5%;
+		top: 0%;
+	}
+
+	.carousel-control-prev{
+		left: 5%;
+		top: 0%;
+	}
+
+	.product{
+		padding-bottom: 0;
+	}
+
+	.fermenu{
+		padding-top: 0
+	}
+
+	.dataform{
+		bottom: -47px;
+		right: -149px;
+	}
+
+	.detail-sub{
+		margin-top: 20px;
+		margin-bottom: 20px;
+	}
+
+	.mar23{
+		margin-top: 20px;
+	}
+
+	.copper{
+		left: 38%;
+		padding: 5px 10px;
+	}
+
+	.copper h3{
+		font-size: 16px;
+		margin-bottom: 0;
+	}
+
+	.just-in{
+		margin-top: 20px;
+	}
+
+	.just-in h1, .about h1, .brands h1{
+		font-size: 28px;
+		margin-bottom: 20px;
+	}
+
+	.about1{
+		margin-top: 20px;
+		margin-bottom: 0;
+	}
+
+	.about1 p{
+		margin-bottom: 10px;
+	}
+
+	.box1{
+		padding: 0;
+		width: 100%;
+		top: 57%;
+		margin: 20px 0;
+		height: 225px;
+	}
+
+	.box1 h2{
+		margin-bottom: 10px;
+	}
+
+	.box1 h6{
+		margin-top: 15px;
+	}
+
+	.cont{
+		height: 650px;
+	}
+
+	.owl-prev, .owl-next, .owl-dots{
+		display: none;
+	}
+
+	.newsletter{
+		margin: 20px 0;
+		padding: 40px 0;
+	}
+
+	.newsletter h2{
+		font-size: 28px;
+	}
+
+	.form1 {
+	    width: 100%;
+	    height:100px;
+	    background-color: #fff;
+	    margin: 0 auto;
+	    position: relative;
+	    padding: 10px;
+	}
+
+	.newsletter input{
+		margin-bottom: 10px;
+		width: 100%;
+		text-align: center;
+	}
+
+	.form1::after{
+		top: 15%;
+	}
+
+	.newsletter h2{
+		margin-bottom: 20px;
+	}
+
+	.just-in, .about, .brands{
+		margin:20px 0;
+	}
+
+	.navcls ol {
+	    left: 0%;
+    	top: 27%;
+	    right: 0;
+	}
+
+	.cont1{
+		margin-top: 0;
+		height: 680px;
+	}
+
+	.slider1 {
+	    height: 680px;
+	    top: 48%;
+	}
+
+	.socail li{
+		transform: scale(0.4);
+		margin:auto 0;
+	}
+
+	.socail{
+		padding-bottom: 20px;
+	}
+
+	.footer{
+		padding-top: 20px;
+	}
+
+	.Shop h2{
+		margin-bottom: 40px;
+	}
+
+	.Shop{
+		margin: 15px 0 0;
+	}
+
+	.Shop ul{
+		margin-bottom: 0;
+	}
+
+	.call-us, .call-us1{
+		width: 100%;
+		margin-top:10px;
+	}
+
+	.main-content{
+		margin-bottom: 15px;
+	}
+
+	.brands{
+		margin-top: 0;
+	}
+}
+
+@media (min-width: 768px) and (max-width: 991px){
+
+	.menu{
+		padding-top: 30px;
+		padding-bottom: 30px;
+	}
+
+	.carousel-control-next, .carousel-control-prev {
+		transform: scale(0.6);
+	}
+
+	.carousel-control-next{
+		right:5%;
+		top: 0%;
+	}
+
+	.carousel-control-prev{
+		left: 5%;
+		top: 0%;
+	}
+
+	.product{
+		padding-bottom: 0;
+	}
+
+	.fermenu{
+		padding-top: 0
+	}
+
+	.dataform{
+		bottom: -47px;
+		right: -149px;
+	}
+
+	.detail-sub{
+		margin-top: 0px;
+		margin-bottom: 0px;
+	}
+
+	.detail-sub img{
+		width: 24%;
+	}
+
+	.mar23{
+		margin-top: 20px;
+		padding: 0;
+	}
+
+	.just-in{
+		margin-top: 20px;
+	}
+
+	.just-in h1, .about h1, .brands h1{
+		font-size: 28px;
+		margin-bottom: 20px;
+	}
+
+	.about1{
+		margin-top: 20px;
+		margin-bottom: 0;
+	}
+
+	.about1 p{
+		margin-bottom: 10px;
+	}
+
+	.box1{
+		padding: 0;
+	    width: 250px;
+	    top: 13%;
+	    margin: 0;
+	    height: 250px;
+	    padding:38px 20px;
+	}
+
+	.box1 img{
+		width: 12%;
+	}
+
+	.box1 h2{
+		margin-bottom: 20px;
+		font-size: 36px;
+	}
+
+	.box1 h6{
+		margin-top: 15px;
+	}
+	.cont{
+		height: 340px;
+	}
+
+	.newsletter{
+		margin: 20px 0;
+		padding: 40px 0;
+	}
+
+	.newsletter h2{
+		font-size: 28px;
+	}
+
+	.form1 {
+	    width: 100%;
+	    height:100px;
+	    background-color: #fff;
+	    margin: 0 auto;
+	    position: relative;
+	    padding: 10px;
+	}
+
+	.newsletter input{
+		margin-bottom: 10px;
+    	width: 70%;
+	}
+
+	.form1::after{
+		top: 15%;
+	}
+
+	.form1{
+		padding: 28px;
+	}
+
+	.newsletter h2{
+		margin-bottom: 20px;
+	}
+
+	.just-in, .about, .brands{
+		margin:20px 0;
+	}
+
+	.navcls ol {
+	    left: 0%;
+    	top: 34%;
+	    right: 0;
+	}
+
+	.cont1{
+		margin-top: 0;
+		height: 680px;
+	}
+
+	.slider1 {
+	    height: 680px;
+	    top: 48%;
+	}
+
+	.socail li{
+		transform: scale(0.4);
+		margin:auto 0;
+	}
+
+	.socail{
+		padding-bottom: 20px;
+	}
+
+	.footer{
+		padding-top: 20px;
+	}
+
+	.Shop h2{
+		margin-bottom: 40px;
+	}
+
+	.Shop{
+		margin: 15px 0 0;
+	}
+
+	.Shop ul{
+		margin-bottom: 0;
+	}
+
+	.call-us, .call-us1 {
+	    width: 330px;
+	    margin-top: 10px;
+	    margin: 0 7px;
+	    padding: 30px 0;
+	    height: 100px ;
+	}
+
+	.main-content{
+		margin-bottom: 15px;
+	}
+
+	.call-us::before{
+		  top: 11%;
+	}
+
+	.call-us1::before {
+		top: 19%;
+	}
+
+	.call-us::after, .call-us1::after{
+		top: 15%;
+	}
+
+	.brands{
+		margin-top: 0;
+	}
+
+	.detail-sub h3{
+		font-size: 20px;
+	}
+
+	.ver{
+		display: none;
+	}
+
+	.call-us{
+		float: left;
+	}
+
+	.call-us1{
+		float: left;
+	}
+}
+
+@media (min-width: 992px) and (max-width: 1199px){
+	.content-rew h2{
+		font-size: 24px;
+	}
+
+	.circle{
+		width: 100px;
+		height: 100px;
+	}
+
+	.content-rew{
+		left: 16%;
+	}
+
+	.detail-sub{
+		margin-top: 8PX;
+	}
+
+	.carousel-control-next, .carousel-control-prev {
+		transform: scale(0.6);
+	}
+
+	.carousel-control-next{
+		right:5%;
+		top: 0%;
+	}
+
+	.carousel-control-prev{
+		left: 5%;
+		top: 0%;
+	}
+
+	.detail{
+		width: 270px ;
+		height: 270px;
+		top: 22%;
+	}
+
+	.detail-1 h6{
+		font-size: 16px;
+	}
+
+	.detail-1 h1{
+		font-size: 40px;
+	}
+
+	.detail-1{
+		top:36%;
+	}
+
+	.box1 {
+	    width: 330px;
+	    height: 290px;
+	    padding: 23px 0;
+	    top: 15%;
+	}
+
+	.cont{
+		height: 600px;
+	}
+
+	.navcls ol{
+		right: 0;
+		left: -1%;
+		top: 48%;
+	}
+
+	.cont1{
+		height: 400px;
+		margin-top: 30px;
+	}
+
+	.slider1{
+		height: 400px;
+	}
+
+	.just-in, .about, .brands, .newsletter{
+		margin-top: 30px;
+	}
+
+	.owl-nav{
+		display: none;
+	}
+
+	.owl-dots{
+		display: none;
+	}
+
+	.about1{
+		margin-bottom: 20px;
+		margin-top: 20px;
+	}
+	.about1 p{
+		margin-bottom: 15px;
+	}
+
+	.fermenu li a{
+		font-size: 13px;
+		padding: 10px 11px !important;
+	}
+
+	.product li {
+    	padding: 9px 5px;
+    }
+
+    .dataform{
+    	bottom: -76%;
+    }
+
+    .mar23{
+    	margin-top: 30px;
+    }
+
+    .navbar-light .navbar-nav .active > .nav-link{
+    	width: 73px;
+    }
+}
+
+@media (min-width: 1200px) and (max-width: 1600px){
+	.box1{
+		top: 21%
+	}
+
+	.cont{
+		height: 650px;
+	}
+
+	.carousel-control-next{
+		right:44%;
+		top: 78%;
+	}
+
+	.carousel-control-prev{
+		left: 44%;
+		top: 78%;
+	}
+
+	.brands .owl-next{
+		right: -3%;
+	}
+
+	.brands .owl-prev{
+		left: -3%;
+	}
+
+	.navcls ol{
+		right: 92%;
+		top: 45%;
+	}
+
+	.detail {
+	    width: 340px;
+	    height: 340px;
+	    top: 22%;
+	}
+
+	.detail-1 {
+
+    position: absolute;
+    top: 36%;
+    right: 10%;
+
+}
+}
+
+@media (min-width: 2400px){
+	.carousel-control-prev {
+	    left: 45.5%;
+	    top: 85%;
+	}
+
+	.carousel-control-next {
+	    right: 45.5%;
+	    top: 85%;
+	}
+
+}

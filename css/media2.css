@@ -1,0 +1,1319 @@
+@media (min-width: 320px) and (max-width: 480px){
+	.menu{
+		padding-top: 30px;
+		padding-bottom: 30px;
+	}
+
+	.carousel-control-next, .carousel-control-prev {
+		transform: scale(0.5);
+	}
+
+	.carousel-control-next{
+		right:5%;
+		top: 0%;
+	}
+
+	.carousel-control-prev{
+		left: 5%;
+		top: 0%;
+	}
+
+	.product{
+		padding-bottom: 0;
+	}
+
+	.fermenu{
+		padding-top: 0
+	}
+
+	.dataform{
+		bottom: -47px;
+		right: -149px;
+	}
+
+	.detail-sub{
+		margin-top: 20px;
+		margin-bottom: 20px;
+	}
+
+	.mar23{
+		margin-top: 20px;
+	}
+
+	.just-in{
+		margin-top: 20px;
+	}
+
+	.just-in h1, .about h1, .offer h1, .blog h1, .brands h1{
+		font-size: 28px;
+		margin-bottom: 20px;
+	}
+
+	.about1{
+		margin-top: 20px;
+		margin-bottom: 0;
+	}
+
+	.about1 p{
+		margin-bottom: 10px;
+	}
+
+	.slider{
+		top: 44.3%;
+	}
+
+	.about h2{
+		font-size: 40px;
+	}
+
+	.box1{
+		padding: 0;
+		width: 100%;
+		top: 48%;
+		margin: 20px 0;
+		height: 225px;
+	}
+
+	.box1 h2{
+		margin-bottom: 10px;
+	}
+
+	.box1 h6{
+		margin-top: 15px;
+	}
+
+	.slider ol{
+		top: 12%;
+	}
+
+	.slider ol li{
+		margin-bottom: 0px;
+	}
+
+	.slider ol li:hover::before, .slider ol li.active::before {
+	    top: 24px;
+	    left: -14px;
+	    width: 13px;
+	}
+
+	.slider ol li:hover, .slider ol li.active{
+		font-size: 24px;
+		margin-bottom: 0;
+	}
+
+	.slider ol {
+    	top: 22%;
+	}
+
+	.cont{
+		height: 450px;
+	}
+
+	.slider{
+		height: 450px;
+	}
+
+	.tab-sliderimg{
+		margin-bottom: 25px;
+	}
+
+	.owl-prev, .owl-next, .owl-dots{
+		display: none;
+	}
+
+	.newsletter{
+		margin: 20px 0;
+		padding: 40px 0;
+	}
+
+	.newsletter h2{
+		font-size: 28px;
+	}
+
+	.form1 {
+	    width: 100%;
+	    height:100px;
+	    background-color: #fff;
+	    margin: 0 auto;
+	    position: relative;
+	    padding: 10px;
+	}
+
+	.newsletter input{
+		margin-bottom: 10px;
+		width: 100%;
+		text-align: center;
+	}
+
+	.form1::after{
+		top: 15%;
+	}
+
+	.newsletter h2{
+		margin-bottom: 20px;
+	}
+
+	.just-in, .about, .offer, .blog, .brands{
+		margin:20px 0;
+	}
+
+	.move{
+		padding-right: 16px !important;
+	}
+
+	.move1 h1{
+		font-size: 40px;
+	}
+
+	.move1 {
+	    top: 39%;
+	    right: 12%;
+	}
+
+	.navcls ol {
+	    left: -8%;
+	    top: 20%;
+	    right: 0;
+	}
+
+	.blog-move{
+		margin: 20px 0;
+	}
+
+	.blog-move h6, .blog-move h3{
+		margin-bottom: 10px;
+	}
+
+	.cont1{
+		margin-top: 0;
+		height: 600px;
+	}
+
+	.slider1 {
+	    height: 600px;
+	    top: 48%;
+	}
+
+	.blog-move a{
+		margin-top: -10px;
+	}
+
+	.blog-move p{
+		margin-bottom: -15px;
+	}
+
+	.socail li{
+		transform: scale(0.4);
+		margin:auto 0;
+	}
+
+	.socail{
+		padding-bottom: 20px;
+	}
+
+	.footer{
+		padding-top: 20px;
+	}
+
+	.Shop h2{
+		margin-bottom: 40px;
+	}
+
+	.Shop{
+		margin: 15px 0 0;
+	}
+
+	.Shop ul{
+		margin-bottom: 0;
+	}
+
+	.call-us, .call-us1{
+		width: 100%;
+		margin-top:10px;
+	}
+
+	.main-content{
+		margin-bottom: 15px;
+	}
+
+	.blog{
+		margin-bottom: 0;
+	}
+
+	.brands{
+		margin-top: 0;
+	}
+
+	.offer{
+		margin-top: 0;
+	}
+
+	.image-product1 h3 {
+		font-size: 26px;
+	}
+
+	.product-details-1{
+		margin-top: 20px;
+	}
+
+}
+
+@media (min-width: 400px) and (max-width: 480px){
+	.cont1{
+		height: 668px;
+	}
+
+	.slider1{
+		height: 668px;
+	}
+
+ }
+
+
+@media (min-width: 481px) and (max-width: 575px){
+	.image-product1 h3 {
+		font-size: 26px;
+	}
+
+	.product-details-1{
+		margin-top: 20px;
+	}
+
+	.menu{
+		padding-top: 30px;
+		padding-bottom: 30px;
+	}
+
+	.carousel-control-next, .carousel-control-prev {
+		transform: scale(0.6);
+	}
+
+	.carousel-control-next{
+		right:5%;
+		top: 0%;
+	}
+
+	.carousel-control-prev{
+		left: 5%;
+		top: 0%;
+	}
+
+	.product{
+		padding-bottom: 0;
+	}
+
+	.fermenu{
+		padding-top: 0
+	}
+
+	.dataform{
+		bottom: -47px;
+		right: -149px;
+	}
+
+	.detail-sub{
+		margin-top: 20px;
+		margin-bottom: 20px;
+	}
+
+	.mar23{
+		margin-top: 20px;
+	}
+
+	.just-in{
+		margin-top: 20px;
+	}
+
+	.just-in h1, .about h1, .offer h1, .blog h1, .brands h1{
+		font-size: 28px;
+		margin-bottom: 20px;
+	}
+
+	.about1{
+		margin-top: 20px;
+		margin-bottom: 0;
+	}
+
+	.about1 p{
+		margin-bottom: 10px;
+	}
+
+	.slider{
+		top: 44.3%;
+	}
+
+	.about h2{
+		font-size: 40px;
+	}
+
+	.box1{
+		padding: 0;
+		width: 100%;
+		top: 57%;
+		margin: 20px 0;
+		height: 225px;
+	}
+
+	.box1 h2{
+		margin-bottom: 10px;
+	}
+
+	.box1 h6{
+		margin-top: 15px;
+	}
+
+	.slider ol{
+		top: 12%;
+	}
+
+	.slider ol li{
+		margin-bottom: 0px;
+	}
+
+	.slider ol li:hover::before, .slider ol li.active::before {
+	    top: 24px;
+	    left: -14px;
+	    width: 13px;
+	}
+
+	.slider ol li:hover, .slider ol li.active{
+		font-size: 24px;
+		margin-bottom: 0;
+	}
+
+	.slider ol {
+    	top: 22%;
+	}
+
+	.cont{
+		height: 560px;
+	}
+
+	.slider{
+		height: 560px;
+	}
+
+	.tab-sliderimg{
+		margin-bottom: 25px;
+	}
+
+	.owl-prev, .owl-next, .owl-dots{
+		display: none;
+	}
+
+	.newsletter{
+		margin: 20px 0;
+		padding: 40px 0;
+	}
+
+	.newsletter h2{
+		font-size: 28px;
+	}
+
+	.form1 {
+	    width: 100%;
+	    height:100px;
+	    background-color: #fff;
+	    margin: 0 auto;
+	    position: relative;
+	    padding: 10px;
+	}
+
+	.newsletter input{
+		margin-bottom: 10px;
+		width: 100%;
+		text-align: center;
+	}
+
+	.form1::after{
+		top: 15%;
+	}
+
+	.newsletter h2{
+		margin-bottom: 20px;
+	}
+
+	.just-in, .about, .offer, .blog, .brands{
+		margin:20px 0;
+	}
+
+	.move{
+		padding-right: 16px !important;
+	}
+
+	.move1 h1{
+		font-size: 70px;
+	}
+
+	.move1 {
+	    top: 37%;
+	    right: 12%;
+	}
+
+	.navcls ol {
+	    left: 0%;
+    	top: 22%;
+	    right: 0;
+	}
+
+	.blog-move{
+		margin: 20px 0;
+	}
+
+	.blog-move h6, .blog-move h3{
+		margin-bottom: 10px;
+	}
+
+	.cont1{
+		margin-top: 0;
+		height: 680px;
+	}
+
+	.slider1 {
+	    height: 680px;
+	    top: 48%;
+	}
+
+	.blog-move a{
+		margin-top: -10px;
+	}
+
+	.blog-move p{
+		margin-bottom: -15px;
+	}
+
+	.socail li{
+		transform: scale(0.4);
+		margin:auto 0;
+	}
+
+	.socail{
+		padding-bottom: 20px;
+	}
+
+	.footer{
+		padding-top: 20px;
+	}
+
+	.Shop h2{
+		margin-bottom: 40px;
+	}
+
+	.Shop{
+		margin: 15px 0 0;
+	}
+
+	.Shop ul{
+		margin-bottom: 0;
+	}
+
+	.call-us, .call-us1{
+		width: 100%;
+		margin-top:10px;
+	}
+
+	.main-content{
+		margin-bottom: 15px;
+	}
+
+	.blog{
+		margin-bottom: 0;
+		margin-top: 30px;
+	}
+
+	.brands{
+		margin-top: 0;
+	}
+
+	.offer{
+		margin-top: 0;
+	}
+
+}
+
+@media (min-width: 576px) and (max-width: 767px){
+
+	.image-product1 h3 {
+		font-size: 26px;
+	}
+
+	.product-details-1{
+		margin-top: 20px;
+	}
+
+	.menu{
+		padding-top: 30px;
+		padding-bottom: 30px;
+	}
+
+	.carousel-control-next, .carousel-control-prev {
+		transform: scale(0.6);
+	}
+
+	.carousel-control-next{
+		right:5%;
+		top: 0%;
+	}
+
+	.carousel-control-prev{
+		left: 5%;
+		top: 0%;
+	}
+
+	.product{
+		padding-bottom: 0;
+	}
+
+	.fermenu{
+		padding-top: 0
+	}
+
+	.dataform{
+		bottom: -47px;
+		right: -149px;
+	}
+
+	.detail-sub{
+		margin-top: 20px;
+		margin-bottom: 20px;
+	}
+
+	.mar23{
+		margin-top: 20px;
+	}
+
+	.just-in{
+		margin-top: 20px;
+	}
+
+	.just-in h1, .about h1, .offer h1, .blog h1, .brands h1{
+		font-size: 28px;
+		margin-bottom: 20px;
+	}
+
+	.about1{
+		margin-top: 20px;
+		margin-bottom: 0;
+	}
+
+	.about1 p{
+		margin-bottom: 10px;
+	}
+
+	.slider{
+		top: 48.3%;
+	}
+
+	.about h2{
+		font-size: 40px;
+	}
+
+	.box1{
+		padding: 0;
+		width: 100%;
+		top: 57%;
+		margin: 20px 0;
+		height: 225px;
+	}
+
+	.box1 h2{
+		margin-bottom: 10px;
+	}
+
+	.box1 h6{
+		margin-top: 15px;
+	}
+
+	.slider ol{
+		top: 12%;
+	}
+
+	.slider ol li{
+		margin-bottom: 0px;
+	}
+
+	.slider ol li:hover::before, .slider ol li.active::before {
+	    top: 24px;
+	    left: -14px;
+	    width: 13px;
+	}
+
+	.slider ol li:hover, .slider ol li.active{
+		font-size: 24px;
+		margin-bottom: 0;
+	}
+
+	.slider ol {
+    	top: 27%;
+	}
+
+	.cont{
+		height: 650px;
+	}
+
+	.slider{
+		height: 680px;
+	}
+
+	.tab-sliderimg{
+		margin-bottom: 25px;
+	}
+
+	.owl-prev, .owl-next, .owl-dots{
+		display: none;
+	}
+
+	.newsletter{
+		margin: 20px 0;
+		padding: 40px 0;
+	}
+
+	.newsletter h2{
+		font-size: 28px;
+	}
+
+	.form1 {
+	    width: 100%;
+	    height:100px;
+	    background-color: #fff;
+	    margin: 0 auto;
+	    position: relative;
+	    padding: 10px;
+	}
+
+	.newsletter input{
+		margin-bottom: 10px;
+		width: 100%;
+		text-align: center;
+	}
+
+	.form1::after{
+		top: 15%;
+	}
+
+	.newsletter h2{
+		margin-bottom: 20px;
+	}
+
+	.just-in, .about, .offer, .blog, .brands{
+		margin:20px 0;
+	}
+
+	.move{
+		padding-right: 16px !important;
+	}
+
+	.move1 h1{
+		font-size: 70px;
+	}
+
+	.move1 {
+	    top: 37%;
+	    right: 12%;
+	}
+
+	.navcls ol {
+	    left: 0%;
+    	top: 27%;
+	    right: 0;
+	}
+
+	.blog-move{
+		margin: 20px 0;
+	}
+
+	.blog-move h6, .blog-move h3{
+		margin-bottom: 10px;
+	}
+
+	.cont1{
+		margin-top: 0;
+		height: 680px;
+	}
+
+	.slider1 {
+	    height: 680px;
+	    top: 48%;
+	}
+
+	.blog-move a{
+		margin-top: -10px;
+	}
+
+	.blog-move p{
+		margin-bottom: -15px;
+	}
+
+	.socail li{
+		transform: scale(0.4);
+		margin:auto 0;
+	}
+
+	.socail{
+		padding-bottom: 20px;
+	}
+
+	.footer{
+		padding-top: 20px;
+	}
+
+	.Shop h2{
+		margin-bottom: 40px;
+	}
+
+	.Shop{
+		margin: 15px 0 0;
+	}
+
+	.Shop ul{
+		margin-bottom: 0;
+	}
+
+	.call-us, .call-us1{
+		width: 100%;
+		margin-top:10px;
+	}
+
+	.main-content{
+		margin-bottom: 15px;
+	}
+
+	.blog{
+		margin-bottom: 0;
+		margin-top: 30px;
+	}
+
+	.brands{
+		margin-top: 0;
+	}
+
+	.offer{
+		margin-top: 0;
+	}
+}
+
+@media (min-width: 768px) and (max-width: 991px){
+	.image-product1 h3 {
+		font-size: 26px;
+	}
+
+	.product-details-1{
+		margin-top: 30px;
+	}
+
+	.product-details-1 h3{
+		font-size: 20px;
+	}
+
+	.menu{
+		padding-top: 30px;
+		padding-bottom: 30px;
+	}
+
+	.carousel-control-next, .carousel-control-prev {
+		transform: scale(0.6);
+	}
+
+	.carousel-control-next{
+		right:5%;
+		top: 0%;
+	}
+
+	.carousel-control-prev{
+		left: 5%;
+		top: 0%;
+	}
+
+	.product{
+		padding-bottom: 0;
+	}
+
+	.fermenu{
+		padding-top: 0
+	}
+
+	.dataform{
+		bottom: -47px;
+		right: -149px;
+	}
+
+	.detail-sub{
+		margin-top: 0px;
+		margin-bottom: 0px;
+	}
+
+	.detail-sub img{
+		width: 24%;
+	}
+
+	.mar23{
+		margin-top: 20px;
+		padding: 0;
+	}
+
+	.just-in{
+		margin-top: 20px;
+	}
+
+	.just-in h1, .about h1, .offer h1, .blog h1, .brands h1{
+		font-size: 28px;
+		margin-bottom: 20px;
+	}
+
+	.about1{
+		margin-top: 20px;
+		margin-bottom: 0;
+	}
+
+	.about1 p{
+		margin-bottom: 10px;
+	}
+
+	.slider{
+		top: 38.3%;
+	}
+
+	.about h2{
+		font-size: 80px;
+	}
+
+	.box1{
+		padding: 0;
+	    width: 250px;
+	    top: 13%;
+	    margin: 0;
+	    height: 250px;
+	    padding:38px 20px;
+	}
+
+	.box1 img{
+		width: 12%;
+	}
+
+	.box1 h2{
+		margin-bottom: 20px;
+		font-size: 36px;
+	}
+
+	.box1 h6{
+		margin-top: 15px;
+	}
+
+	.slider ol{
+		top: 12%;
+	}
+
+	.slider ol li{
+		margin-bottom: 0px;
+	}
+
+	.slider ol li:hover::before, .slider ol li.active::before {
+	    top: 24px;
+	    left: -14px;
+	    width: 13px;
+	}
+
+	.slider ol li:hover, .slider ol li.active{
+		font-size: 24px;
+		margin-bottom: 0;
+	}
+
+	.slider ol {
+    	top: 48%;
+	}
+
+	.cont{
+		height: 340px;
+	}
+
+	.slider{
+		height: 340px;
+	}
+
+	.tab-sliderimg{
+		margin-bottom: 25px;
+	}
+
+
+
+	.newsletter{
+		margin: 20px 0;
+		padding: 40px 0;
+	}
+
+	.newsletter h2{
+		font-size: 28px;
+	}
+
+	.form1 {
+	    width: 100%;
+	    height:100px;
+	    background-color: #fff;
+	    margin: 0 auto;
+	    position: relative;
+	    padding: 10px;
+	}
+
+	.newsletter input{
+		margin-bottom: 10px;
+    	width: 70%;
+	}
+
+	.form1::after{
+		top: 15%;
+	}
+
+	.form1{
+		padding: 28px;
+	}
+
+	.newsletter h2{
+		margin-bottom: 20px;
+	}
+
+	.just-in, .about, .offer, .blog, .brands{
+		margin:20px 0;
+	}
+
+	.move{
+		padding-right: 16px !important;
+	}
+
+	.move1 h1{
+		font-size: 120px;
+	}
+
+	.move1 {
+	    top: 32%;
+	    right: 12%;
+	}
+
+	.navcls ol {
+	    left: 0%;
+    	top: 34%;
+	    right: 0;
+	}
+
+	.blog-move{
+		margin: 20px 0;
+	}
+
+	.blog-move h6, .blog-move h3{
+		margin-bottom: 10px;
+	}
+
+	.cont1{
+		margin-top: 0;
+		height: 680px;
+	}
+
+	.slider1 {
+	    height: 680px;
+	    top: 48%;
+	}
+
+	.blog-move a{
+		margin-top: -10px;
+	}
+
+	.blog-move p{
+		margin-bottom: -15px;
+	}
+
+	.socail li{
+		transform: scale(0.4);
+		margin:auto 0;
+	}
+
+	.socail{
+		padding-bottom: 20px;
+	}
+
+	.footer{
+		padding-top: 20px;
+	}
+
+	.Shop h2{
+		margin-bottom: 40px;
+	}
+
+	.Shop{
+		margin: 15px 0 0;
+	}
+
+	.Shop ul{
+		margin-bottom: 0;
+	}
+
+	.call-us, .call-us1 {
+	    width: 330px;
+	    margin-top: 10px;
+	    margin: 0 7px;
+	    padding: 30px 0;
+	    height: 100px ;
+	}
+
+	.main-content{
+		margin-bottom: 15px;
+	}
+
+	.blog{
+		margin-bottom: 0;
+		margin-top: 30px;
+	}
+
+	.call-us::before{
+		  top: 11%;
+	}
+
+	.call-us1::before {
+		top: 19%;
+	}
+
+	.call-us::after, .call-us1::after{
+		top: 15%;
+	}
+
+	.brands{
+		margin-top: 0;
+	}
+
+	.offer{
+		margin-top: 0;
+	}
+
+	.detail-sub h3{
+		font-size: 20px;
+	}
+
+	.ver{
+		display: none;
+	}
+
+	.call-us{
+		float: left;
+	}
+
+	.call-us1{
+		float: left;
+	}
+}
+
+@media (min-width: 992px) and (max-width: 1199px){
+	.content-rew h2{
+		font-size: 24px;
+	}
+
+	.circle{
+		width: 100px;
+		height: 100px;
+	}
+
+	.content-rew{
+		left: 16%;
+	}
+
+	.detail-sub{
+		margin-top: 8PX;
+	}
+
+	.carousel-control-next, .carousel-control-prev {
+		transform: scale(0.6);
+	}
+
+	.carousel-control-next{
+		right:5%;
+		top: 0%;
+	}
+
+	.carousel-control-prev{
+		left: 5%;
+		top: 0%;
+	}
+
+	.detail{
+		width: 270px ;
+		height: 270px;
+		top: 22%;
+	}
+
+	.detail-1 h6{
+		font-size: 16px;
+	}
+
+	.detail-1 h1{
+		font-size: 40px;
+	}
+
+	.detail-1{
+		top:36%;
+	}
+
+	.slider ol{
+		top: 50%;
+	}
+
+	.box1 {
+	    width: 330px;
+	    height: 290px;
+	    padding: 23px 0;
+	    top: 15%;
+	}
+
+	.cont{
+		height: 600px;
+	}
+
+	.slider{
+		height: 600px;
+		top: 44%;
+	}
+
+	.blog-move{
+		margin: 8px 0;
+	}
+
+	.navcls ol{
+		right: 0;
+		left: -1%;
+		top: 48%;
+	}
+
+	.cont1{
+		height: 400px;
+		margin-top: 30px;
+	}
+
+	.slider1{
+		height: 400px;
+	}
+
+	.move1{
+		top: 30%;
+		right: -15%;
+	}
+
+	.just-in, .about, .offer, .blog, .brands, .newsletter{
+		margin-top: 30px;
+	}
+
+	.owl-nav{
+		display: none;
+	}
+
+	.owl-dots{
+		display: none;
+	}
+
+	.allslider h4{
+		font-size: 16px;
+	}
+
+	.about1{
+		margin-bottom: 20px;
+		margin-top: 20px;
+	}
+	.about1 p{
+		margin-bottom: 15px;
+	}
+
+	.fermenu li a{
+		font-size: 13px;
+		padding: 10px 11px !important;
+	}
+
+	.product li {
+    	padding: 9px 5px;
+    }
+
+    .dataform{
+    	bottom: -76%;
+    }
+
+    .mar23{
+    	margin-top: 30px;
+    }
+
+    .navbar-light .navbar-nav .active > .nav-link{
+    	width: 73px;
+    }
+}
+
+@media (min-width: 1200px) and (max-width: 1600px){
+	.box1{
+		top: 21%
+	}
+
+	.slider ol{
+		top: 42%;
+	}
+
+	.slider{
+		height: 650px;
+		top: 44%
+	}
+
+	.cont{
+		height: 650px;
+	}
+
+	.carousel-control-next{
+		right:44%;
+		top: 78%;
+	}
+
+	.carousel-control-prev{
+		left: 44%;
+		top: 78%;
+	}
+
+	.offer .owl-next {
+	    top: 98%;
+	    right: 46%;
+	}
+
+	.offer .owl-prev {
+	    top: 98%;
+	    left: 46%;
+	}
+
+	.brands .owl-next{
+		right: -3%;
+	}
+
+	.brands .owl-prev{
+		left: -3%;
+	}
+
+	.navcls ol{
+		right: 92%;
+		top: 45%;
+	}
+
+	.detail {
+	    width: 340px;
+	    height: 340px;
+	    top: 22%;
+	}
+
+	.detail-1 {
+	    top: 36%;
+	    right: 10%;
+	}
+}
+
+@media (min-width: 2400px){
+	.carousel-control-prev {
+	    left: 45.5%;
+	    top: 85%;
+	}
+
+	.carousel-control-next {
+	    right: 45.5%;
+	    top: 85%;
+	}
+
+	.slider ol {
+	    top: 49%;
+	}
+}
